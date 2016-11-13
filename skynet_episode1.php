@@ -1,4 +1,4 @@
-<?php
+<?php 
 fscanf(STDIN, "%d %d %d",
     $N, // the total number of noeud in the level, including the gateways
     $L, // the number of links
