@@ -30,7 +30,7 @@ for ($i = 0; $i < $E; $i++)
 
 while (TRUE)
 {
-    fscanf(STDIN, "%d",
+    fscanf(STDIN, "%d", 
         $SI // The index of the node on which the Skynet agent is positioned this turn
     );
     
